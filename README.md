@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🍰
 
 [![nakanoyuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakanoyuki)](https://github.com/nakanoyuki/github-readme-stats)
 
