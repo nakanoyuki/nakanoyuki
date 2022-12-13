@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakanoyuki)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <a href="https://github.com/nakanoyuki/nakanoyuki/">
     <img src="https://komarev.com/ghpvc/?username=nakanoyuki" alt="nakanoyuki" />
